@@ -25,4 +25,4 @@ A web application that allows users to record their screens and capture high-qua
    git clone https://github.com/manojkumar28119/ScreenCapture-Studio.git
 
 
-###Deployed link : https://screencapturestudio-by-mk.netlify.app/
+### Deployed link : https://screencapturestudio-by-mk.netlify.app/
